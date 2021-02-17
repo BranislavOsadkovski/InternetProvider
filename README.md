@@ -9,6 +9,6 @@ Desktop application enabling Internet Provider CRUD operations on details about 
 - internet Speed
 
 ##  For more details about JavaFX SDK Ant tasks go to
-    http://docs.oracle.com/javafx/2/deployment/jfxpub-deployment.htm
+http://docs.oracle.com/javafx/2/deployment/jfxpub-deployment.htm
 ## For list of available properties check the files
-    nbproject/build-impl.xml and nbproject/jfx-impl.xml.
+nbproject/build-impl.xml and nbproject/jfx-impl.xml.
